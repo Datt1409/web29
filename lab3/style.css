@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+div {
+  display: block;
+}
+
+.class {
+  width: 500px;
+  margin: 0px auto 30px;
+  font-weight: 300;
+  border: 1px solid #dad8d8;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 15%);
+}
+
+.class-time {
+  background-color: #fe6d3f;
+  height: 160px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.date-time {
+  height: 130px;
+}
+.year {
+  background-color: #ef5321;
+  margin-bottom: 30px;
+}
+
+.day {
+  font-size: 2.5em;
+}
+
+.class-info {
+  padding: 16px 24px 0px;
+}
+.class-title {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  padding-bottom: 8px;
+  color: #4d4d4d;
+}
+
+.timetable-item {
+  font-size: 0.9em;
+  margin-top: 5px;
+  font-weight: 300;
+  color: #4b4b4a;
+}
+
+.register {
+  margin-top: 7px;
+  padding: 7px 0 5px;
+  color: #3c78e8;
+}
+
+hr {
+  margin-top: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #4d4d4d;
+}
+
+.class-time-blue {
+  background-color: #4B96F2;
+  height: 160px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.year-blue {
+  background-color: #2682F2;
+  margin-bottom: 30px;
+}
+
+.class-time-yellow {
+  background-color: #FBBC05;
+  height: 160px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.year-yellow {
+  background-color: #F89707;
+  margin-bottom: 30px;
+}
+.class-time-green {
+  background-color: #4DB446;
+  height: 160px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.year-green {
+  background-color: #088D2D;
+  margin-bottom: 30px;
+}
